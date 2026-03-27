@@ -42,7 +42,7 @@
 11. Filter orders where **Quantity >= 3**.
 12. Filter orders where **Aging > 5**.
 13. Filter orders where **Customer_Login_type = Guest**.
-14. Filter orders where **Payment_method = COD**.
+14. Filter orders where **Payment_method = e-wallet**.
 15. Filter orders where **Sales between 300 and 800**.
 
 ---

@@ -1,5 +1,6 @@
 If company wants to give scholarship to top 20% students, which students will get it?
 If company wants to give extra classes to bottom 25% students, which students need help?
+
 Divide students into 3 categories:
 Low Performers (< P25)
 Average Performers (P25 – P75)
@@ -52,7 +53,7 @@ High Performers (> P75)
 
 ---
 
-# Mini Project Task
+# Mini Project Task Students Marks
 
 Mean
 Median
@@ -62,5 +63,6 @@ Standard Deviation
 Q1, Q2, Q3
 IQR
 Outliers
+Box Plot
 Top 10% students
 Bottom 10% students
